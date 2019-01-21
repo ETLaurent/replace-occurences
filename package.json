@@ -1,0 +1,35 @@
+{
+  "name": "replace-occurences",
+  "version": "0.1.0",
+  "description": "Replace multiple occurrences in a string.",
+  "keywords": [
+    "string",
+    "replace",
+    "occurrences"
+  ],
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha test",
+    "lint": "eslint ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/ETLaurent/replace-occurences.git"
+  },
+  "author": "ETLaurent",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ETLaurent/replace-occurences/issues"
+  },
+  "homepage": "https://github.com/ETLaurent/replace-occurences#readme",
+  "devDependencies": {
+    "chai": "^4.2.0",
+    "eslint": "^5.12.1",
+    "eslint-config-standard": "^12.0.0",
+    "eslint-plugin-import": "^2.14.0",
+    "eslint-plugin-node": "^8.0.1",
+    "eslint-plugin-promise": "^4.0.1",
+    "eslint-plugin-standard": "^4.0.0",
+    "mocha": "^5.2.0"
+  }
+}
