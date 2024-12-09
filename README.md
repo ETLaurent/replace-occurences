@@ -1,10 +1,10 @@
 # Replaces Occurrences
 
-## What the f*** is this?
+## What is this?
 
 Just some code I wanted to keep.
 
-## How to use this sh**?
+## How to use this?
 
 Honestly, use `String.prototype.replace()` if you just need to replace few occurrences.
 
